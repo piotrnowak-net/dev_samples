@@ -1,0 +1,41 @@
+@model FourthCoffee.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Product</legend>
+
+    <div class="display-label">Category</div>
+    <div class="display-field">@(Model.Category == null ? "None" : Model.Category.Name)</div>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">@Model.Name</div>
+
+    <div class="display-label">Description</div>
+    <div class="display-field">@Model.Description</div>
+
+    <div class="display-label">Price</div>
+    <div class="display-field">@String.Format("{0:F}", Model.Price)</div>
+
+    <div class="display-label">CreationDate</div>
+    <div class="display-field">@String.Format("{0:g}", Model.CreationDate)</div>
+
+    <div class="display-label">ExpirationDate</div>
+    <div class="display-field">@String.Format("{0:g}", Model.ExpirationDate)</div>
+
+    <div class="display-label">QtyOnHand</div>
+    <div class="display-field">@Model.QtyOnHand</div>
+
+    <div class="display-label">ImageName</div>
+    <div class="display-field">@Model.ImageName</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

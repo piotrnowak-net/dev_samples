@@ -1,0 +1,28 @@
+﻿@using FourthCoffee.Models;
+@{    
+    ViewBag.Title = "Home Page";
+    var viewDataProduct = ViewData["FeaturedProduct"] as Product;
+    var tempDataProduct = TempData["FeaturedProduct"] as Product;                
+}
+<h2>Welcome to Fourth Coffee Bakery</h2>
+<div>
+    <a href="/Products">
+    <img src='@Url.Content("\\Content\\Images\\cake.jpg")' alt="Fourth Coffee Bakery"/>    
+    </a>
+    <div>
+        Today's Featured Product is!
+        <br />
+        <h4>@ViewBag.FeaturedProduct.Name</h4>
+        <h3>@viewDataProduct.Name</h3>
+        <h2>@tempDataProduct.Name</h2>
+    </div>
+    @Html.ActionLink("Test Tempdata","Featured")
+
+      <input name="q"/>
+  <input type="submit" value="Search"/>
+  <audio>
+  </audio>
+
+</div>
+
+

@@ -1,0 +1,14 @@
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\obj\Debug\ResolveAssemblyReference.cache
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\bin\FourthCoffee.Web.dll
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\bin\FourthCoffee.Web.pdb
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\bin\EntityFramework.dll
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\bin\EntityFramework.xml
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\obj\Debug\FourthCoffee.Web.dll
+d:\samples\FourthCoffee.Web\FourthCoffee.Web\obj\Debug\FourthCoffee.Web.pdb
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\bin\FourthCoffee.Web.dll
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\bin\FourthCoffee.Web.pdb
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\obj\Debug\FourthCoffee.Web.dll
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\obj\Debug\FourthCoffee.Web.pdb
+C:\Users\Admin\Downloads\FourthCoffee-ViewModels\FourthCoffee.Web\obj\Debug\FourthCoffee.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+@model FourthCoffee.Models.Order
+
+@* This partial view defines form fields that will appear when creating and editing entities *@
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Date)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Date)
+    @Html.ValidationMessageFor(model => model.Date)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Total)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Total)
+    @Html.ValidationMessageFor(model => model.Total)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.ReadyDateTime)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.ReadyDateTime)
+    @Html.ValidationMessageFor(model => model.ReadyDateTime)
+</div>
+
+<div class="editor-label">
+    Customer
+</div>
+<div class="editor-field">
+    @Html.DropDownListFor(model => model.CustomerId, ((IEnumerable<FourthCoffee.Models.Customer>)ViewBag.PossibleCustomers).Select(option => new SelectListItem {
+        Text = (option == null ? "None" : option.LastName), 
+        Value = option.Id.ToString(),
+        Selected = (Model != null) && (option.Id == Model.CustomerId)
+    }), "Choose...")
+    @Html.ValidationMessageFor(model => model.CustomerId)
+</div>

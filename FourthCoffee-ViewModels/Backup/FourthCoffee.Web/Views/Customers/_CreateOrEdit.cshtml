@@ -1,0 +1,61 @@
+@model FourthCoffee.Web.ViewModels.CustomerViewModel
+
+@* This partial view defines form fields that will appear when creating and editing entities *@
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.FirstName)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.FirstName)
+    @Html.ValidationMessageFor(model => model.Customer.FirstName)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.LastName)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.LastName)
+    @Html.ValidationMessageFor(model => model.Customer.LastName)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.Address)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.Address)
+    @Html.ValidationMessageFor(model => model.Customer.Address)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.City)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.City)
+    @Html.ValidationMessageFor(model => model.Customer.City)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.State)
+</div>
+<div class="editor-field">    
+    @Html.DropDownList("state", new SelectList(StatesDictionary.StateSelectList, 
+                       "Value", "Text", Model.Customer == null ? "" : Model.Customer.State))
+    @Html.ValidationMessageFor(model => model.Customer.State)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.PostalCode)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.PostalCode)
+    @Html.ValidationMessageFor(model => model.Customer.PostalCode)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Customer.Email)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Customer.Email)
+    @Html.ValidationMessageFor(model => model.Customer.Email)
+</div>
+

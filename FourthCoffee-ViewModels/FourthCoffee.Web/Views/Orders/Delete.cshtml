@@ -1,0 +1,38 @@
+@model FourthCoffee.Models.Order
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">Date</div>
+    <div class="display-field">@String.Format("{0:g}", Model.Date)</div>
+
+    <div class="display-label">Total</div>
+    <div class="display-field">@String.Format("{0:F}", Model.Total)</div>
+
+    <div class="display-label">ReadyDateTime</div>
+    <div class="display-field">@String.Format("{0:g}", Model.ReadyDateTime)</div>
+
+    <div class="display-label">OrderType</div>
+    <div class="display-field">@Html.DisplayTextFor(_ => Model.OrderType).ToString()</div>
+
+    <div class="display-label">LineItems</div>
+    <div class="display-field">@(Model.LineItems == null ? "None" : Model.LineItems.Count.ToString())</div>
+
+    <div class="display-label">PaymentType</div>
+    <div class="display-field">@Html.DisplayTextFor(_ => Model.PaymentType).ToString()</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+
+

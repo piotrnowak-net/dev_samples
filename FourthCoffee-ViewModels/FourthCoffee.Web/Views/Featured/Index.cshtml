@@ -1,0 +1,38 @@
+@using FourthCoffee.Models;
+@model FourthCoffee.Models.Product
+@{    
+    var featuredProduct = TempData["FeaturedProduct"] as Product;    
+    var featuredProduct2 = ViewData["FeaturedProduct"] as Product;
+    var featuredProduct3 = ViewBag.FeaturedProduct;
+    ViewBag.Title = "Details";
+}
+<h2>Details</h2>
+<fieldset>
+    <legend>Product</legend>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">@featuredProduct.Name</div>
+
+    <div class="display-label">Description</div>
+    <div class="display-field">@featuredProduct.Description</div>
+
+    <div class="display-label">Price</div>
+    <div class="display-field">@String.Format("{0:F}", featuredProduct.Price)</div>
+
+    <div class="display-label">CreationDate</div>
+    <div class="display-field">@String.Format("{0:g}", featuredProduct.CreationDate)</div>
+
+    <div class="display-label">ExpirationDate</div>
+    <div class="display-field">@String.Format("{0:g}", featuredProduct.ExpirationDate)</div>
+
+    <div class="display-label">QtyOnHand</div>
+    <div class="display-field">@featuredProduct.QtyOnHand</div>
+
+    <img src=@Url.Content("\\Content\\Images\\Products\\")@featuredProduct.ImageName alt="Image" />
+
+</fieldset>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

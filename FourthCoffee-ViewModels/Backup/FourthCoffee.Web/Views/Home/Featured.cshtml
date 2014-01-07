@@ -1,0 +1,25 @@
+﻿@using FourthCoffee.Models;
+@{
+    ViewBag.Title = "Featured";
+}
+
+<h2>Featured</h2>
+  <div>
+        Today's Featured Product!
+        <br />
+        @ViewBag.FeaturedProduct.Name
+        <br />
+        @{
+            @* This will work file *@
+            Product tempDataProduct = TempData["FeaturedProduct"] as Product;                
+            
+            @* A Null reference error will occur for this code, they are not available after a redirect *@
+            Product viewBagProduct = ViewData["FeaturedProduct"] as Product;
+            Product viewDataProduct = ViewData["FeaturedProduct"] as Product;
+            
+         }                
+        <br />
+        @viewDataProduct.Name
+        <br />
+        @tempDataProduct.Name
+    </div>
