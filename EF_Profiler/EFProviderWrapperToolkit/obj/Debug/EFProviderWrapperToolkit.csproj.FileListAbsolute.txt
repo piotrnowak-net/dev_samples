@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.lastcodeanalysissucceeded
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.pdb

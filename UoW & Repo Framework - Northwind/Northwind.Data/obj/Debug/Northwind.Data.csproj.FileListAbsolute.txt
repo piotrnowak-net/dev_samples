@@ -1,0 +1,58 @@
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Northwind.Entity.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Repository.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Validation.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Northwind.Entity.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Repository.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\Validation.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Northwind.Data\bin\Debug\System.Web.Mvc.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Northwind.Entity.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Repository.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Northwind.Entity.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Repository.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\System.Web.Mvc.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Northwind.Entity.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Repository.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Validation.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Northwind.Entity.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Repository.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\bin\Debug\Validation.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb

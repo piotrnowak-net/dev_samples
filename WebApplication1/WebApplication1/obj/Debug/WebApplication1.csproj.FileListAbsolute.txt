@@ -1,0 +1,5 @@
+E:\Pliki\piotrnowak-net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Pliki\piotrnowak-net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Pliki\piotrnowak-net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Pliki\piotrnowak-net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Pliki\piotrnowak-net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

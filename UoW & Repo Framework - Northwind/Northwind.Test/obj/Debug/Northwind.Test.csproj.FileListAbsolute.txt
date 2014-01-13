@@ -1,0 +1,20 @@
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\obj\Debug\Northwind.Test.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\EntityFramework.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Northwind.Entity.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Northwind.Service.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Repository.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\System.Web.Mvc.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Northwind.Entity.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Repository.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Northwind.Service.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\EntityFramework.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\System.Web.Mvc.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\;]'003.2..........03.0000000000000000000000000000.0.030.  []   000000016.5063302.0.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\;]'003.2..........03.0000000000000000000000000000.0.030.  []   000000016.5063302.0.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\bin\Debug\;]'003.2..........03.0000000000000000000000000000.0.030.  []   000000016.5063302.0.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\obj\Debug\;]'003.2..........03.0000000000000000000000000000.0.030.  []   000000016.5063302.0.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Test\obj\Debug\;]'003.2..........03.0000000000000000000000000000.0.030.  []   000000016.5063302.0.pdb

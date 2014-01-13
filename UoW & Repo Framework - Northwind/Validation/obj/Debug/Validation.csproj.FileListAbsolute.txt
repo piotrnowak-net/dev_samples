@@ -1,0 +1,21 @@
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Debug\Validation.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Debug\Validation.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Debug\System.Web.Mvc.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Debug\System.Web.Mvc.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Debug\Validation.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Debug\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Debug\Validation.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Debug\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Debug\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Debug\System.Web.Mvc.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Debug\System.Web.Mvc.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Debug\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Debug\Validation.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\bin\Debug\Validation.dll.config
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\bin\Debug\Validation.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\bin\Debug\Validation.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\obj\Debug\Validation.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Validation\obj\Debug\Validation.pdb

@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFCachingProvider.Tests.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFCachingProvider.Tests.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFCachingProvider.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFCachingProvider.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\bin\Debug\EFProviderWrapperToolkit.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\obj\Debug\EFCachingProvider.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\obj\Debug\EFCachingProvider.Tests.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFCachingProvider.Tests\obj\Debug\EFCachingProvider.Tests.pdb

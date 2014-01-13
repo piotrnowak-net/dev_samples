@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFTracingProvider.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFTracingProvider.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFTracingProvider.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFTracingProvider.dll.lastcodeanalysissucceeded
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\bin\Debug\EFProviderWrapperToolkit.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\obj\Debug\EFTracingProvider.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\obj\Debug\EFTracingProvider.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFTracingProvider\obj\Debug\EFTracingProvider.pdb

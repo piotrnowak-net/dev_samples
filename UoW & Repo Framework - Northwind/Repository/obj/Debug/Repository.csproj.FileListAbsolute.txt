@@ -1,0 +1,30 @@
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\Repository.dll.config
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\Repository.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\Repository.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\EntityFramework.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\EntityFramework.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\obj\Debug\Repository.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Repository\obj\Debug\Repository.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\Repository.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\Repository.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\Repository.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\EntityFramework.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\EntityFramework.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\obj\Debug\Repository.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Repository\obj\Debug\Repository.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\Repository.dll.config
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\Downloads\UoW & Repo Framework - Northwind\Repository\obj\Debug\Repository.pdb

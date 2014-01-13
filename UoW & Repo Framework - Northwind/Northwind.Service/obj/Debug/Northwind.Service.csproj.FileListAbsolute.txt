@@ -1,0 +1,15 @@
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\obj\Debug\Northwind.Service.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Northwind.Service.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Northwind.Service.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Northwind.Entity.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Repository.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\EntityFramework.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\System.Web.Mvc.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Northwind.Entity.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Repository.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\EntityFramework.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\bin\Debug\System.Web.Mvc.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\obj\Debug\Northwind.Service.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Northwind.Service\obj\Debug\Northwind.Service.pdb

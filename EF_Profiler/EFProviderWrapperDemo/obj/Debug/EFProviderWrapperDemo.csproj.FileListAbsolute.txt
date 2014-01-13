@@ -1,0 +1,1 @@
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\EFProviderWrapperDemo\bin\Debug\EFProviderWrapperDemo.exe.config

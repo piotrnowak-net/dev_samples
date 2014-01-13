@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\NorthwindEFModel.csdl
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\NorthwindEFModel.msl
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\NorthwindEFModel.WithTracing.ssdl
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\ConfigOnlyInjection.exe.config
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\ConfigOnlyInjection.exe
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\ConfigOnlyInjection.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\EFTracingProvider.dll
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\EFProviderWrapperToolkit.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\bin\Debug\EFTracingProvider.pdb
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\obj\Debug\ConfigOnlyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\obj\Debug\ConfigOnlyInjection.exe
+C:\Users\Admin\Downloads\Tracing and Caching Provider Wrappers for Entity Framework\C#\ConfigOnlyInjection\obj\Debug\ConfigOnlyInjection.pdb

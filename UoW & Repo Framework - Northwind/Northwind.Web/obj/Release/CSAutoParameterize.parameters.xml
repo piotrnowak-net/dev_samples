@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NorthwindContext-Web.config Connection String" description="NorthwindContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=|DataDirectory|\Northwind.sdf;Persist Security Info=False;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Tfs\\lelong37\.codeplex\.com\\GenericUnitofWorkAndRepositories\\main\\Northwind\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NorthwindContext']/@connectionString" />
+  </parameter>
+  <parameter name="Repository.DbContextBase-Web.config Connection String" description="Repository.DbContextBase Connection String used in web.config by the application to access the database." defaultValue="Repository.DbContextBase_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Tfs\\lelong37\.codeplex\.com\\GenericUnitofWorkAndRepositories\\main\\Northwind\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Repository.DbContextBase']/@connectionString" />
+  </parameter>
+</parameters>

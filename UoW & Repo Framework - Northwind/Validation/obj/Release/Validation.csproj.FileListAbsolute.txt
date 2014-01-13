@@ -1,0 +1,16 @@
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Release\Validation.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Release\Validation.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Release\System.Web.Mvc.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Release\System.Web.Mvc.xml
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Release\Validation.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Release\Validation.dll
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\obj\Release\Validation.pdb
+C:\Users\lle\Source\GenericUnitOfWorkAndRepository\Northwind\Validation\bin\Release\Validation.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Release\Validation.dll.config
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Release\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Release\Validation.pdb
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Release\System.Web.Mvc.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\bin\Release\System.Web.Mvc.xml
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Release\Validation.csprojResolveAssemblyReference.cache
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Release\Validation.dll
+C:\Tfs\lelong37.codeplex.com\GenericUnitofWorkAndRepositories\main\Validation\obj\Release\Validation.pdb
